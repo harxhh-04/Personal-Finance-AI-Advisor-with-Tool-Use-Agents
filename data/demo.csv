@@ -1,1 +1,216 @@
-
+Date,Merchant,Description,Amount,Category,Time,Status,Payment_Method,Notes,Month
+01-01-2025,ICICI Bank Charges,ICICI Bank Charges - Transaction,-12622.15,Investment & Banking,12:47,Completed,Wallet,,2025-01
+01-01-2025,School Fees,School Fees - Transaction,-2995.52,Education,11:04,Completed,Wallet,,2025-01
+01-01-2025,Zepto Delivery,Zepto Delivery - Transaction,-1423.07,Groceries,12:34,Completed,UPI,,2025-01
+02-01-2025,Adidas Training App,Adidas Training App - Transaction,-1568.83,Fitness & Sports,10:54,Completed,Credit Card,,2025-01
+02-01-2025,Dental Clinic,Dental Clinic - Transaction,-4042.84,Healthcare,11:15,Completed,Debit Card,,2025-01
+03-01-2025,Hostelworld Booking,Hostelworld Booking - Transaction,-738.37,Travel & Accommodation,10:13,Completed,Wallet,,2025-01
+03-01-2025,Vaccination Clinic,Vaccination Clinic - Transaction,-3060.26,Healthcare,22:33,Completed,Wallet,,2025-01
+03-01-2025,BESCOM Electricity Bill,BESCOM Electricity Bill - Transaction,-1970.77,Housing & Utilities,15:37,Completed,Credit Card,,2025-01
+03-01-2025,Loan EMI Payment,Loan EMI Payment - Transaction,-3414.25,Investment & Banking,10:57,Completed,UPI,,2025-01
+03-01-2025,Mamaearth Beauty,Mamaearth Beauty - Transaction,-629.11,Personal Care,23:13,Completed,Wallet,,2025-01
+03-01-2025,Dental Clinic,Dental Clinic - Transaction,-4686.59,Healthcare,14:42,Completed,Debit Card,,2025-01
+04-01-2025,Maintenance Charges,Maintenance Charges - Transaction,-2009.32,Housing & Utilities,09:46,Pending,Wallet,,2025-01
+04-01-2025,Max Healthcare,Max Healthcare - Transaction,-2849.8,Healthcare,19:36,Completed,Credit Card,,2025-01
+04-01-2025,Nike Training Club,Nike Training Club - Transaction,-1699.17,Fitness & Sports,14:09,Completed,Debit Card,,2025-01
+04-01-2025,Hostelworld Booking,Hostelworld Booking - Transaction,-3092.65,Travel & Accommodation,18:27,Completed,Net Banking,,2025-01
+05-01-2025,Ajio Fashion,Ajio Fashion - Transaction,-4470.62,Shopping,12:17,Completed,Wallet,,2025-01
+05-01-2025,Employer Salary,Monthly Salary,80000,Income,09:30,Completed,Bank Transfer,January Salary,2025-01
+06-01-2025,Decathlon Sports,Decathlon Sports - Transaction,-4387.68,Shopping,21:13,Completed,UPI,,2025-01
+06-01-2025,HDFC Bank Fee,HDFC Bank Fee - Transaction,-39228.13,Investment & Banking,21:51,Completed,UPI,,2025-01
+06-01-2025,Subscription Service Fee,Subscription Service Fee - Transaction,-1125.55,Miscellaneous,09:54,Pending,Debit Card,,2025-01
+07-01-2025,Nike Training Club,Nike Training Club - Transaction,-1433.46,Fitness & Sports,10:38,Completed,Wallet,,2025-01
+07-01-2025,HDFC Bank Fee,HDFC Bank Fee - Transaction,-10578.07,Investment & Banking,16:32,Pending,UPI,,2025-01
+07-01-2025,Khan Academy Plus,Khan Academy Plus - Transaction,-985.05,Education,15:14,Completed,Debit Card,,2025-01
+09-01-2025,ICICI ATM Withdrawal,ICICI ATM Withdrawal - Transaction,-7600.13,Miscellaneous,13:44,Pending,UPI,,2025-01
+09-01-2025,GoIbibo Flight,GoIbibo Flight - Transaction,-1915.71,Transportation,18:06,Completed,Net Banking,,2025-01
+09-01-2025,Local Supermarket,Local Supermarket - Transaction,-1378.39,Groceries,18:13,Pending,Net Banking,,2025-01
+09-01-2025,Practo Doctor Consultation,Practo Doctor Consultation - Transaction,-3424.11,Healthcare,17:29,Completed,Credit Card,,2025-01
+09-01-2025,Local Bus Pass,Local Bus Pass - Transaction,-1765.3,Transportation,15:23,Completed,Debit Card,,2025-01
+10-01-2025,PharmEasy Medicine,PharmEasy Medicine - Transaction,-2377.87,Healthcare,16:32,Completed,Wallet,,2025-01
+10-01-2025,Yoga Studio Membership,Yoga Studio Membership - Transaction,-719.75,Fitness & Sports,17:35,Completed,Debit Card,,2025-01
+11-01-2025,McDonald's India,McDonald's India - Transaction,-707.78,Food & Dining,16:11,Completed,Credit Card,,2025-01
+12-01-2025,Money Transfer Service,Money Transfer Service - Transaction,-2432.55,Miscellaneous,15:56,Completed,Credit Card,,2025-01
+12-01-2025,Spotify Premium,Spotify Premium - Transaction,-350.12,Entertainment,19:49,Pending,Wallet,,2025-01
+13-01-2025,Jabong Fashion,Jabong Fashion - Transaction,-3251.29,Shopping,19:10,Completed,UPI,,2025-01
+13-01-2025,Tennis Club Fee,Tennis Club Fee - Transaction,-809.5,Fitness & Sports,22:07,Completed,Debit Card,,2025-01
+13-01-2025,Pizza Hut Delivery,Pizza Hut Delivery - Transaction,-248.9,Food & Dining,22:18,Pending,Wallet,,2025-01
+13-01-2025,Airtel Mobile Bill,Airtel Mobile Bill - Transaction,-2660.88,Housing & Utilities,16:22,Pending,Wallet,,2025-01
+14-01-2025,Hostelworld Booking,Hostelworld Booking - Transaction,-3214.97,Travel & Accommodation,12:32,Pending,Credit Card,,2025-01
+14-01-2025,Grammarly Premium,Grammarly Premium - Transaction,-719.87,Education,20:57,Completed,Debit Card,,2025-01
+14-01-2025,Carrefour India,Carrefour India - Transaction,-972.42,Groceries,11:46,Completed,Wallet,,2025-01
+14-01-2025,Yoga Studio Membership,Yoga Studio Membership - Transaction,-1386.9,Fitness & Sports,13:39,Completed,Net Banking,,2025-01
+15-01-2025,Paytm Wallet Topup,Paytm Wallet Topup - Transaction,-1024.19,Miscellaneous,08:05,Completed,Debit Card,,2025-01
+15-01-2025,Nail Salon,Nail Salon - Transaction,-674.78,Personal Care,08:42,Completed,Credit Card,,2025-01
+15-01-2025,Freelance Project,Project Payment,15000,Income,14:20,Completed,Bank Transfer,,2025-01
+18-01-2025,Paytm Wallet Topup,Paytm Wallet Topup - Transaction,-9189.01,Miscellaneous,18:31,Completed,Credit Card,,2025-01
+18-01-2025,Unacademy Subscription,Unacademy Subscription - Transaction,-1323.46,Education,16:29,Completed,Credit Card,,2025-01
+18-01-2025,Dosa Palace,Dosa Palace - Transaction,-265.19,Food & Dining,21:50,Completed,Net Banking,,2025-01
+19-01-2025,Byjus App,Byjus App - Transaction,-2375.4,Education,21:12,Completed,Credit Card,,2025-01
+19-01-2025,Purplle Cosmetics,Purplle Cosmetics - Transaction,-916.59,Personal Care,09:19,Completed,Credit Card,,2025-01
+19-01-2025,Gaana Premium,Gaana Premium - Transaction,-69.97,Entertainment,21:00,Completed,UPI,,2025-01
+20-01-2025,Juice Bar,Juice Bar - Transaction,-199.13,Food & Dining,21:14,Pending,Wallet,,2025-01
+20-01-2025,DMart Store,DMart Store - Transaction,-665.29,Groceries,15:37,Completed,Wallet,,2025-01
+20-01-2025,Stock Dividend,Dividend Income,5000,Income,10:15,Completed,Bank Transfer,,2025-01
+21-01-2025,Unacademy Subscription,Unacademy Subscription - Transaction,-868.15,Education,15:47,Completed,Wallet,,2025-01
+22-01-2025,Eye Hospital,Eye Hospital - Transaction,-2233.18,Healthcare,22:55,Completed,Credit Card,,2025-01
+22-01-2025,Stock Market Purchase,Stock Market Purchase - Transaction,-8162.44,Investment & Banking,17:13,Completed,Wallet,,2025-01
+24-01-2025,Alt Balaji Premium,Alt Balaji Premium - Transaction,-258.02,Entertainment,16:59,Completed,UPI,,2025-01
+24-01-2025,Study Material,Study Material - Transaction,-300.72,Education,12:08,Pending,Wallet,,2025-01
+24-01-2025,Nykaa Beauty Store,Nykaa Beauty Store - Transaction,-1521.15,Personal Care,09:03,Pending,Wallet,,2025-01
+24-01-2025,MakeMyTrip Booking,MakeMyTrip Booking - Transaction,-1733.27,Transportation,13:56,Pending,Credit Card,,2025-01
+25-01-2025,McDonald's India,McDonald's India - Transaction,-164.63,Food & Dining,13:50,Pending,Wallet,,2025-01
+25-01-2025,Cleartrip Flight,Cleartrip Flight - Transaction,-348.32,Transportation,22:35,Pending,Wallet,,2025-01
+27-01-2025,ICICI ATM Withdrawal,ICICI ATM Withdrawal - Transaction,-2329.03,Miscellaneous,09:51,Completed,Net Banking,,2025-01
+28-01-2025,Hotel Dinner,Hotel Dinner - Transaction,-590.54,Food & Dining,16:49,Completed,Credit Card,,2025-01
+28-01-2025,Purplle Cosmetics,Purplle Cosmetics - Transaction,-208.07,Personal Care,10:54,Completed,Credit Card,,2025-01
+28-01-2025,Uber Eats Order,Uber Eats Order - Transaction,-525.71,Food & Dining,16:02,Completed,UPI,,2025-01
+01-02-2025,Rent Payment,Rent Payment - Transaction,-2383.69,Housing & Utilities,21:34,Completed,Net Banking,,2025-02
+02-02-2025,Nykaa Beauty,Nykaa Beauty - Transaction,-1771.29,Shopping,22:20,Completed,Net Banking,,2025-02
+02-02-2025,Idea Mobile Bill,Idea Mobile Bill - Transaction,-2125.36,Housing & Utilities,09:48,Completed,Debit Card,,2025-02
+02-02-2025,ASOS Fashion,ASOS Fashion - Transaction,-747.62,Shopping,10:25,Pending,Credit Card,,2025-02
+02-02-2025,SBI ATM Withdrawal,SBI ATM Withdrawal - Transaction,-4731.48,Miscellaneous,22:58,Completed,Debit Card,,2025-02
+03-02-2025,Medical Insurance Premium,Medical Insurance Premium - Transaction,-1788.23,Healthcare,22:26,Completed,Debit Card,,2025-02
+03-02-2025,OYO Rooms Booking,OYO Rooms Booking - Transaction,-7170.67,Travel & Accommodation,18:38,Completed,Credit Card,,2025-02
+03-02-2025,Kindle Books,Kindle Books - Transaction,-314.21,Entertainment,08:48,Completed,Wallet,,2025-02
+04-02-2025,Ice Cream Shop,Ice Cream Shop - Transaction,-263.25,Food & Dining,23:28,Completed,Debit Card,,2025-02
+05-02-2025,Google Pay Transfer,Google Pay Transfer - Transaction,-6692.4,Miscellaneous,18:48,Pending,Wallet,,2025-02
+05-02-2025,Flipkart Shopping,Flipkart Shopping - Transaction,-4876.62,Shopping,17:44,Completed,Net Banking,,2025-02
+05-02-2025,Jabong Fashion,Jabong Fashion - Transaction,-4428.06,Shopping,23:07,Completed,Wallet,,2025-02
+05-02-2025,Netmeds Pharmacy,Netmeds Pharmacy - Transaction,-4624.97,Healthcare,12:55,Completed,UPI,,2025-02
+05-02-2025,Employer Salary,Monthly Salary,80000,Income,09:30,Completed,Bank Transfer,February Salary,2025-02
+07-02-2025,Street Food Vendor,Street Food Vendor - Transaction,-164.29,Food & Dining,12:30,Completed,Wallet,,2025-02
+07-02-2025,Online Workshop,Online Workshop - Transaction,-843.11,Education,19:10,Completed,Debit Card,,2025-02
+08-02-2025,Cash Deposit Bank,Cash Deposit Bank - Transaction,-1516.17,Miscellaneous,09:15,Pending,Wallet,,2025-02
+08-02-2025,Flight Booking App,Flight Booking App - Transaction,-945.16,Transportation,15:58,Completed,Net Banking,,2025-02
+08-02-2025,Sephora Makeup,Sephora Makeup - Transaction,-2531.08,Shopping,20:21,Pending,Debit Card,,2025-02
+08-02-2025,Mother Dairy,Mother Dairy - Transaction,-948.84,Groceries,15:49,Pending,Net Banking,,2025-02
+08-02-2025,Hotel Booking Travel,Hotel Booking Travel - Transaction,-177.88,Transportation,08:26,Pending,Wallet,,2025-02
+08-02-2025,Fittr App,Fittr App - Transaction,-1825.98,Fitness & Sports,12:04,Completed,Debit Card,,2025-02
+08-02-2025,Amul Dairy,Amul Dairy - Transaction,-1425.89,Groceries,12:31,Completed,Wallet,,2025-02
+09-02-2025,Coursera Learning,Coursera Learning - Transaction,-2169.28,Education,15:17,Completed,UPI,,2025-02
+09-02-2025,Amazon Pay Bills,Amazon Pay Bills - Transaction,-2560.1,Miscellaneous,10:30,Completed,Wallet,,2025-02
+09-02-2025,MakeMyTrip Hotel,MakeMyTrip Hotel - Transaction,-4668.43,Travel & Accommodation,14:05,Completed,Net Banking,,2025-02
+10-02-2025,Swiggy Instamart,Swiggy Instamart - Transaction,-1400.44,Groceries,20:25,Completed,Credit Card,,2025-02
+10-02-2025,PVR Cinemas,PVR Cinemas - Transaction,-361.3,Entertainment,17:42,Completed,Net Banking,,2025-02
+10-02-2025,H&M Purchase,H&M Purchase - Transaction,-779.15,Shopping,14:20,Completed,Wallet,,2025-02
+11-02-2025,Gold's Gym Membership,Gold's Gym Membership - Transaction,-1729.69,Fitness & Sports,18:26,Pending,UPI,,2025-02
+11-02-2025,Hostelworld Booking,Hostelworld Booking - Transaction,-5373.77,Travel & Accommodation,18:54,Pending,UPI,,2025-02
+13-02-2025,ZEE5 Subscription,ZEE5 Subscription - Transaction,-345.23,Entertainment,08:57,Completed,Net Banking,,2025-02
+14-02-2025,Flight Booking App,Flight Booking App - Transaction,-1931.98,Transportation,16:39,Pending,Net Banking,,2025-02
+14-02-2025,Insurance Premium Payment,Insurance Premium Payment - Transaction,-13785.58,Investment & Banking,15:53,Completed,UPI,,2025-02
+15-02-2025,Adidas Training App,Adidas Training App - Transaction,-1071.23,Fitness & Sports,13:42,Completed,UPI,,2025-02
+15-02-2025,H&M Purchase,H&M Purchase - Transaction,-4231.34,Shopping,16:49,Pending,Debit Card,,2025-02
+15-02-2025,Sun TV Premium,Sun TV Premium - Transaction,-306.43,Entertainment,20:21,Completed,Net Banking,,2025-02
+15-02-2025,Adidas Shop,Adidas Shop - Transaction,-4952.15,Shopping,17:36,Completed,Wallet,,2025-02
+15-02-2025,Skyscanner Ticket,Skyscanner Ticket - Transaction,-1809.75,Transportation,09:20,Completed,UPI,,2025-02
+16-02-2025,Mamaearth Beauty,Mamaearth Beauty - Transaction,-1412.16,Personal Care,23:28,Completed,Credit Card,,2025-02
+16-02-2025,Flipkart Shopping,Flipkart Shopping - Transaction,-1311.09,Shopping,17:44,Pending,Credit Card,,2025-02
+17-02-2025,Tennis Club Fee,Tennis Club Fee - Transaction,-1276.6,Fitness & Sports,10:52,Completed,UPI,,2025-02
+17-02-2025,LPG Gas Bill,LPG Gas Bill - Transaction,-2063.52,Housing & Utilities,09:13,Completed,Wallet,,2025-02
+17-02-2025,Goibibo Hotel,Goibibo Hotel - Transaction,-7022.75,Travel & Accommodation,22:06,Pending,Credit Card,,2025-02
+18-02-2025,Amazon Fresh,Amazon Fresh - Transaction,-311.16,Groceries,20:44,Completed,Debit Card,,2025-02
+18-02-2025,Khadi Natural,Khadi Natural - Transaction,-908.46,Personal Care,18:22,Pending,UPI,,2025-02
+18-02-2025,Khan Academy Plus,Khan Academy Plus - Transaction,-1064.08,Education,20:29,Completed,Debit Card,,2025-02
+18-02-2025,Freelance Project,Project Payment,20000,Income,15:45,Completed,Bank Transfer,,2025-02
+19-02-2025,Cult.fit Gym Membership,Cult.fit Gym Membership - Transaction,-259.5,Fitness & Sports,21:08,Pending,Debit Card,,2025-02
+19-02-2025,Loan EMI Payment,Loan EMI Payment - Transaction,-12521.04,Investment & Banking,17:54,Completed,Wallet,,2025-02
+19-02-2025,Tennis Club Fee,Tennis Club Fee - Transaction,-201.86,Fitness & Sports,12:51,Completed,Credit Card,,2025-02
+19-02-2025,Medicine Purchase,Medicine Purchase - Transaction,-4851.47,Healthcare,23:22,Pending,UPI,,2025-02
+21-02-2025,Stock Market Purchase,Stock Market Purchase - Transaction,-43682.96,Investment & Banking,09:39,Completed,Debit Card,,2025-02
+21-02-2025,Nike Training Club,Nike Training Club - Transaction,-1995.11,Fitness & Sports,10:27,Completed,Credit Card,,2025-02
+22-02-2025,Gaana Premium,Gaana Premium - Transaction,-404.52,Entertainment,14:27,Completed,Wallet,,2025-02
+22-02-2025,Fortis Hospital,Fortis Hospital - Transaction,-2383.16,Healthcare,18:16,Completed,Credit Card,,2025-02
+23-02-2025,Titan Watch Store,Titan Watch Store - Transaction,-2132.04,Shopping,16:32,Pending,Net Banking,,2025-02
+23-02-2025,Sephora Makeup,Sephora Makeup - Transaction,-4206.67,Shopping,23:15,Pending,Wallet,,2025-02
+23-02-2025,Kindle Books,Kindle Books - Transaction,-222.34,Entertainment,21:02,Completed,Net Banking,,2025-02
+23-02-2025,Amazon Pay Bills,Amazon Pay Bills - Transaction,-3891.48,Miscellaneous,12:31,Completed,Debit Card,,2025-02
+24-02-2025,Local Supermarket,Local Supermarket - Transaction,-975.72,Groceries,16:42,Completed,Debit Card,,2025-02
+24-02-2025,Adidas Shop,Adidas Shop - Transaction,-2983.63,Shopping,23:55,Completed,Net Banking,,2025-02
+24-02-2025,Train Ticket Counter,Train Ticket Counter - Transaction,-1745.74,Transportation,12:04,Pending,UPI,,2025-02
+25-02-2025,Paytm Money Investment,Paytm Money Investment - Transaction,-9981.28,Investment & Banking,23:17,Completed,Credit Card,,2025-02
+25-02-2025,Apollo Hospital,Apollo Hospital - Transaction,-3356.77,Healthcare,22:26,Completed,Debit Card,,2025-02
+25-02-2025,Amazon Pay Bills,Amazon Pay Bills - Transaction,-3431.76,Miscellaneous,16:52,Completed,UPI,,2025-02
+26-02-2025,Chinese Wok,Chinese Wok - Transaction,-449.56,Food & Dining,19:04,Completed,Credit Card,,2025-02
+26-02-2025,Puma Purchase,Puma Purchase - Transaction,-3795,Shopping,17:28,Completed,Net Banking,,2025-02
+26-02-2025,Alt Balaji Premium,Alt Balaji Premium - Transaction,-189.84,Entertainment,08:35,Pending,Credit Card,,2025-02
+27-02-2025,Mutual Fund SIP,Mutual Fund SIP - Transaction,-21623.67,Investment & Banking,22:57,Completed,Net Banking,,2025-02
+27-02-2025,Vaccination Clinic,Vaccination Clinic - Transaction,-4543.22,Healthcare,08:54,Pending,Net Banking,,2025-02
+27-02-2025,Online Certification,Online Certification - Transaction,-470.12,Education,08:58,Pending,Wallet,,2025-02
+27-02-2025,JioSaavn Premium,JioSaavn Premium - Transaction,-152.37,Entertainment,13:19,Completed,Wallet,,2025-02
+28-02-2025,HDFC ATM Withdrawal,HDFC ATM Withdrawal - Transaction,-4581.39,Miscellaneous,14:45,Pending,Net Banking,,2025-02
+28-02-2025,Medicine Purchase,Medicine Purchase - Transaction,-706.59,Healthcare,19:40,Pending,Debit Card,,2025-02
+28-02-2025,BSNL Telecom Bill,BSNL Telecom Bill - Transaction,-1718.87,Housing & Utilities,19:51,Completed,UPI,,2025-02
+01-03-2025,OYO Rooms Booking,OYO Rooms Booking - Transaction,-7329.63,Travel & Accommodation,23:53,Completed,Debit Card,,2025-03
+01-03-2025,Uniqlo Store,Uniqlo Store - Transaction,-4940.13,Shopping,16:51,Completed,Credit Card,,2025-03
+02-03-2025,ASOS Fashion,ASOS Fashion - Transaction,-757.38,Shopping,15:56,Completed,Net Banking,,2025-03
+02-03-2025,Loan EMI Payment,Loan EMI Payment - Transaction,-26311.84,Investment & Banking,22:41,Completed,Credit Card,,2025-03
+02-03-2025,Property Tax,Property Tax - Transaction,-685.48,Housing & Utilities,22:28,Completed,Credit Card,,2025-03
+03-03-2025,Meesho App,Meesho App - Transaction,-3787.91,Shopping,13:12,Completed,Wallet,,2025-03
+03-03-2025,Airtel Internet Bill,Airtel Internet Bill - Transaction,-664.21,Housing & Utilities,16:39,Completed,Net Banking,,2025-03
+03-03-2025,Jio Broadband Bill,Jio Broadband Bill - Transaction,-1894.91,Housing & Utilities,20:18,Completed,Wallet,,2025-03
+04-03-2025,Khan Academy Plus,Khan Academy Plus - Transaction,-2051.2,Education,16:37,Pending,UPI,,2025-03
+04-03-2025,Adidas Training App,Adidas Training App - Transaction,-995.81,Fitness & Sports,18:58,Completed,Credit Card,,2025-03
+04-03-2025,Hotel Reservation,Hotel Reservation - Transaction,-2095.54,Travel & Accommodation,23:14,Completed,UPI,,2025-03
+05-03-2025,Swimming Pool Pass,Swimming Pool Pass - Transaction,-227.55,Fitness & Sports,10:05,Pending,Credit Card,,2025-03
+05-03-2025,Employer Salary,Monthly Salary,80000,Income,09:30,Completed,Bank Transfer,March Salary,2025-03
+06-03-2025,ITC Limited Store,ITC Limited Store - Transaction,-967.59,Groceries,15:31,Completed,Debit Card,,2025-03
+06-03-2025,Flipkart Shopping,Flipkart Shopping - Transaction,-808.44,Shopping,21:33,Completed,Credit Card,,2025-03
+06-03-2025,Titan Watch Store,Titan Watch Store - Transaction,-3859.57,Shopping,18:22,Completed,Debit Card,,2025-03
+06-03-2025,Donation Online,Donation Online - Transaction,-545.14,Miscellaneous,10:17,Pending,Net Banking,,2025-03
+06-03-2025,Donation Online,Donation Online - Transaction,-4627.96,Miscellaneous,19:05,Pending,Credit Card,,2025-03
+07-03-2025,Local Supermarket,Local Supermarket - Transaction,-920.94,Groceries,15:21,Completed,Wallet,,2025-03
+07-03-2025,IRCTC Train Ticket,IRCTC Train Ticket - Transaction,-1527.62,Transportation,10:11,Pending,Net Banking,,2025-03
+08-03-2025,Eye Hospital,Eye Hospital - Transaction,-2959.1,Healthcare,17:01,Pending,UPI,,2025-03
+08-03-2025,Fortis Hospital,Fortis Hospital - Transaction,-236.9,Healthcare,17:13,Completed,UPI,,2025-03
+08-03-2025,Vaccination Clinic,Vaccination Clinic - Transaction,-2715.02,Healthcare,20:55,Completed,UPI,,2025-03
+08-03-2025,BSNL Telecom Bill,BSNL Telecom Bill - Transaction,-690.95,Housing & Utilities,11:33,Completed,UPI,,2025-03
+08-03-2025,IRCTC Train Ticket,IRCTC Train Ticket - Transaction,-182.02,Transportation,11:32,Completed,UPI,,2025-03
+10-03-2025,HDFC Bank Fee,HDFC Bank Fee - Transaction,-38953.36,Investment & Banking,10:56,Completed,Debit Card,,2025-03
+10-03-2025,Jio Broadband Bill,Jio Broadband Bill - Transaction,-519.32,Housing & Utilities,21:11,Completed,Net Banking,,2025-03
+12-03-2025,Practo Doctor Consultation,Practo Doctor Consultation - Transaction,-1372.15,Healthcare,21:36,Completed,Debit Card,,2025-03
+12-03-2025,Salon Services,Salon Services - Transaction,-1835.63,Personal Care,13:16,Pending,UPI,,2025-03
+12-03-2025,Loan EMI Payment,Loan EMI Payment - Transaction,-40844.33,Investment & Banking,15:06,Completed,UPI,,2025-03
+12-03-2025,Myntra Fashion,Myntra Fashion - Transaction,-3294.4,Shopping,10:39,Pending,Net Banking,,2025-03
+12-03-2025,Nykaa Beauty,Nykaa Beauty - Transaction,-2162.09,Shopping,18:43,Completed,UPI,,2025-03
+12-03-2025,Forever 21 Fashion,Forever 21 Fashion - Transaction,-4765.61,Shopping,18:49,Pending,Debit Card,,2025-03
+13-03-2025,Manipal Hospital,Manipal Hospital - Transaction,-1700.23,Healthcare,18:42,Completed,UPI,,2025-03
+13-03-2025,Loan EMI Payment,Loan EMI Payment - Transaction,-21175.85,Investment & Banking,11:25,Completed,UPI,,2025-03
+14-03-2025,Water Deposit,Water Deposit - Transaction,-2670.23,Housing & Utilities,09:18,Completed,UPI,,2025-03
+14-03-2025,Spencer's Supermarket,Spencer's Supermarket - Transaction,-1049.51,Groceries,23:33,Completed,Credit Card,,2025-03
+14-03-2025,Subway Sandwich,Subway Sandwich - Transaction,-740.87,Food & Dining,18:36,Pending,Wallet,,2025-03
+15-03-2025,Nike Training Club,Nike Training Club - Transaction,-973.18,Fitness & Sports,08:57,Pending,UPI,,2025-03
+15-03-2025,Insurance Premium,Insurance Premium - Transaction,-1547.82,Housing & Utilities,12:56,Pending,Credit Card,,2025-03
+15-03-2025,Byjus App,Byjus App - Transaction,-2580.81,Education,11:43,Completed,Wallet,,2025-03
+15-03-2025,Dairy Shop,Dairy Shop - Transaction,-719.09,Groceries,17:50,Completed,Wallet,,2025-03
+16-03-2025,Book Purchase Academic,Book Purchase Academic - Transaction,-1149.91,Education,11:28,Completed,Wallet,,2025-03
+16-03-2025,Medical Insurance Premium,Medical Insurance Premium - Transaction,-3493.27,Healthcare,23:45,Pending,Credit Card,,2025-03
+16-03-2025,Travel Agency Package,Travel Agency Package - Transaction,-3606.38,Travel & Accommodation,14:48,Completed,UPI,,2025-03
+18-03-2025,Upstox Share Trading,Upstox Share Trading - Transaction,-25262.99,Investment & Banking,19:04,Pending,Credit Card,,2025-03
+19-03-2025,Nail Salon,Nail Salon - Transaction,-1802.17,Personal Care,22:58,Completed,UPI,,2025-03
+20-03-2025,Bill Payment Gateway,Bill Payment Gateway - Transaction,-2229.1,Miscellaneous,14:39,Completed,Debit Card,,2025-03
+20-03-2025,Forest Essentials,Forest Essentials - Transaction,-962.06,Personal Care,21:06,Completed,Wallet,,2025-03
+20-03-2025,College Tuition Fee,College Tuition Fee - Transaction,-537.5,Education,09:28,Completed,UPI,,2025-03
+21-03-2025,Blinkit Grocery,Blinkit Grocery - Transaction,-532.51,Groceries,22:02,Completed,Debit Card,,2025-03
+21-03-2025,Online Certification,Online Certification - Transaction,-2133.12,Education,21:07,Completed,Credit Card,,2025-03
+21-03-2025,BWSSB Water Bill,BWSSB Water Bill - Transaction,-1495.35,Housing & Utilities,14:07,Pending,Credit Card,,2025-03
+21-03-2025,Loan EMI Payment,Loan EMI Payment - Transaction,-19901.92,Investment & Banking,10:19,Pending,UPI,,2025-03
+22-03-2025,Purplle Cosmetics,Purplle Cosmetics - Transaction,-240.34,Personal Care,19:37,Completed,Net Banking,,2025-03
+22-03-2025,Netflix Subscription,Netflix Subscription - Transaction,-72.76,Entertainment,18:15,Completed,Wallet,,2025-03
+22-03-2025,Domino's Pizza,Domino's Pizza - Transaction,-61.15,Food & Dining,15:37,Completed,Credit Card,,2025-03
+22-03-2025,Bonus Payment,Performance Bonus,25000,Income,16:00,Completed,Bank Transfer,,2025-03
+23-03-2025,Jabong Fashion,Jabong Fashion - Transaction,-4257.46,Shopping,14:24,Pending,Credit Card,,2025-03
+23-03-2025,Walmart Flipkart,Walmart Flipkart - Transaction,-154.8,Groceries,22:28,Completed,UPI,,2025-03
+24-03-2025,Jio Broadband Bill,Jio Broadband Bill - Transaction,-1670.83,Housing & Utilities,10:09,Completed,Net Banking,,2025-03
+24-03-2025,Jio TV Plus,Jio TV Plus - Transaction,-253.2,Entertainment,15:26,Completed,Net Banking,,2025-03
+24-03-2025,HDFC Bank Fee,HDFC Bank Fee - Transaction,-40682.58,Investment & Banking,09:37,Completed,Credit Card,,2025-03
+24-03-2025,Mamaearth Beauty,Mamaearth Beauty - Transaction,-814.77,Personal Care,22:21,Completed,UPI,,2025-03
+25-03-2025,Resort Booking,Resort Booking - Transaction,-3866.79,Travel & Accommodation,18:55,Completed,Debit Card,,2025-03
+25-03-2025,Booking.com Hotel,Booking.com Hotel - Transaction,-4979.35,Travel & Accommodation,12:10,Completed,Wallet,,2025-03
+27-03-2025,School Fees,School Fees - Transaction,-1283.54,Education,16:02,Completed,Debit Card,,2025-03
+27-03-2025,Flight Booking App,Flight Booking App - Transaction,-214.1,Transportation,21:32,Completed,Credit Card,,2025-03
+28-03-2025,Paytm Wallet Topup,Paytm Wallet Topup - Transaction,-3689.46,Miscellaneous,20:00,Completed,Wallet,,2025-03
+28-03-2025,Khadi Natural,Khadi Natural - Transaction,-318.28,Personal Care,16:36,Completed,Net Banking,,2025-03
+28-03-2025,Spa Treatment,Spa Treatment - Transaction,-1265.79,Personal Care,08:38,Completed,Credit Card,,2025-03
+28-03-2025,Car Rental Service,Car Rental Service - Transaction,-1324.97,Transportation,10:09,Completed,Credit Card,,2025-03
+28-03-2025,Bus Booking Online,Bus Booking Online - Transaction,-190.56,Transportation,12:58,Completed,UPI,,2025-03
