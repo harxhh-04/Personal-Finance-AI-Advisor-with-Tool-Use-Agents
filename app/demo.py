@@ -8,7 +8,7 @@ st.title("💰 Personal Finance AI Advisor")
 st.markdown("---")
 
 # ── Load CSV ──────────────────────────────────────────────────────────────────
-df = pd.read_csv("data/sample_transactions.csv")
+df = pd.read_csv("data/updated_transactions.csv")
 
 # Fix date column (DD-MM-YYYY format)
 df["Date"] = pd.to_datetime(df["Date"], dayfirst=True)
