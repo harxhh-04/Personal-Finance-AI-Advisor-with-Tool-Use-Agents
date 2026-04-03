@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Databases (Local data shouldn't be pushed usually, but keep as needed)
+finance_advisor.db
+chroma_db/
+
+# Virtual environment
+venv/
+.venv/
+
+# OS specific
+.DS_Store
+Thumbs.db

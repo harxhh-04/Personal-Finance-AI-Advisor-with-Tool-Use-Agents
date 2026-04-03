@@ -1,0 +1,11 @@
+google-generativeai
+chromadb
+langgraph
+langchain-google-genai
+pandas
+numpy
+streamlit
+plotly
+fpdf
+python-dotenv
+scikit-learn
